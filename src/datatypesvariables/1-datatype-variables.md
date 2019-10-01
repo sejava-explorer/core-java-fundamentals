@@ -1,5 +1,11 @@
 
-###### Hello Guys, lets start with some of the core concepts data types and variable 8-) ######
+### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
+
+> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
+>
+> Shortcuts (emoticons): :-) :-( 8-) ;)
+
+### Hello Guys, lets start with some of the core concepts data types and variable 8-) ###
 
 ### DATA TYPES ###
 
