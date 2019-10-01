@@ -68,7 +68,7 @@ _`VARIABLE` (In layman's term)- is a container or placeholder that is used for s
 
 In technical term, `variable` is nothing but a memory location within computer internal memory which is used for storing data or value which is used by the functions or methods
 
-In Java, there are various operations we can perform on Variables
+In Java, there are various operations related to variables
 
 ##### Variable Declaration #####
 
