@@ -1,4 +1,3 @@
-{::options parse_block_html="true" /}
 <!-- ### [Emojies](https://github.com/markdown-it/markdown-it-emoji) -->
 <!--
 > Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
@@ -64,7 +63,7 @@ In technical term, `variable` is nothing but a memory location within computer i
 
 In Java, there are various operations we can perform on Variables
 
-######Variable Declaration######
+##### Variable Declaration #####
 
   *Variable Declaration =  Variable Datatype + Variable Name + `;`*
 
@@ -72,7 +71,7 @@ In Java, there are various operations we can perform on Variables
   int i ;
   ```
 
-######Variable Initialization######
+##### Variable Initialization #####
 
   *Variable Initialization =  Variable Name + `=` + Value + `;`*
 
@@ -80,7 +79,7 @@ In Java, there are various operations we can perform on Variables
   i = 500;
   ```
 
-######Variable Definition######
+##### Variable Definition #####
 
   *Variable Definition =  Variable Declaration + Variable Initialization + `;`*
 
@@ -88,9 +87,6 @@ In Java, there are various operations we can perform on Variables
   int i = 500;
   ```
 
-Please find the reference code for data types and variables at -
+_Please find the reference code for data types and variables at -_
 
 Reference Code: https://github.com/sejava-explorer/core-java-fundamentals/blob/master/src/datatypesvariables/Datatypes.java
-
-
-{::options parse_block_html="false" /}
