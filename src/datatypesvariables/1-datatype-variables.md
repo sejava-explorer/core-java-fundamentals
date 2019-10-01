@@ -5,7 +5,7 @@
 > Shortcuts (emoticons): :-) :-( 8-) ;) -->
 
 ### Hello Guys, lets start with some of the core concepts data types and variable :sunglasses: ###
-
+![code-sample](https://github.com/sejava-explorer/core-java-fundamentals/blob/master/images/githubdatatype.png)
 ### DATA TYPES ###
 
 _Data type in any programming language represents the type of data/value a particular variable can hold in it._
