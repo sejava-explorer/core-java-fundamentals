@@ -64,26 +64,32 @@ In technical term, `variable` is nothing but a memory location within computer i
 
 In Java, there are various operations we can perform on Variables
   + Variable Declaration
+
   ::: warning
   *Variable Declaration =  Variable Datatype + Variable Name + `;`*
   :::
   ```java
   int i ;
   ```
+
   + Variable Initialization
+
   ::: warning
   *Variable Initialization =  Variable Name + `=` + Value + `;`*
   :::
   ```java
   i = 500;
   ```
+
   + Variable Definition
+
   ::: warning
   *Variable Declaration =  Variable Declaration + Variable Initialization + `;`*
   :::
   ```java
   int i = 500;
   ```
+
 
 
 Please find the reference code for data types and variables at -
