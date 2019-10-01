@@ -15,7 +15,7 @@ a. Numeric
         - `int`
         - `long`
 
-```
+```java
 byte b = 123;
 short b = 478;
 int b = 36374;
@@ -25,18 +25,18 @@ long b = 2737383;
         - `float`
         - `double`
 
-```
+```java
 float f = 4563.89F;
 double d = 234.78;
 ```
 b. Non - Numeric
   1. `char`
-  ```
+  ```java
   char c = 'A';
   char x = '&';
   ```
   2. `boolean`
-  ```
+  ```java
   boolean bool = true;
   boolean b = false;
   ```
