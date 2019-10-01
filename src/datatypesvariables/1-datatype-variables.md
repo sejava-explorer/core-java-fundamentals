@@ -1,4 +1,4 @@
-
+{::options parse_block_html="true" /}
 <!-- ### [Emojies](https://github.com/markdown-it/markdown-it-emoji) -->
 <!--
 > Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
@@ -84,15 +84,29 @@ In Java, there are various operations we can perform on Variables
 
   + Variable Definition
 
-  *Variable Declaration =  Variable Declaration + Variable Initialization + `;`*
+  *Variable Definition =  Variable Declaration + Variable Initialization + `;`*
   {: .alert .alert-info}
 
   ```java
   int i = 500;
   ```
 
+  <div class="panel panel-info">
+**Variable Definition**
+{: .panel-heading}
+<div class="panel-body" style="text-style:'italic';">
+
+Variable Definition =  Variable Declaration + Variable Initialization + ;
+
+</div>
+</div>
+
+
 
 
 Please find the reference code for data types and variables at -
 
 Reference Code: https://github.com/sejava-explorer/core-java-fundamentals/blob/master/src/datatypesvariables/Datatypes.java
+
+
+{::options parse_block_html="false" /}
