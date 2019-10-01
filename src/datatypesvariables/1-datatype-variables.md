@@ -5,7 +5,7 @@
 >
 > Shortcuts (emoticons): :-) :-( 8-) ;) -->
 
-### Hello Guys, lets start with some of the core concepts data types and variable 8) ###
+### Hello Guys, lets start with some of the core concepts data types and variable :laughing: ###
 
 ### DATA TYPES ###
 
@@ -68,24 +68,25 @@ In Java, there are various operations we can perform on Variables
   ::: warning
   *Variable Declaration =  Variable Datatype + Variable Name + `;`*
   :::
+
   ```java
   int i ;
   ```
 
   + Variable Initialization
 
-  ::: warning
   *Variable Initialization =  Variable Name + `=` + Value + `;`*
-  :::
+  {: .alert .alert-warning}
+
   ```java
   i = 500;
   ```
 
   + Variable Definition
 
-  ::: warning
   *Variable Declaration =  Variable Declaration + Variable Initialization + `;`*
-  :::
+  {: .alert .alert-info}
+
   ```java
   int i = 500;
   ```
