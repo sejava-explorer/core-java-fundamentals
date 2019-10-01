@@ -4,16 +4,16 @@
 
 Data type in any programming language represents the type of data/value a particular variable can hold in it.
 In Java, the data types are broadly classified as -
-- A. Primitive
-- B. Non-Primitive
+-  Primitive
+-  Non-Primitive
 
 #### A. Primitive - Primitive datatype is further classified as -
 a. Numeric
   1. Integer
-        + `byte`
-        + `short`
-        + `int`
-        + `long`
+        - `byte`
+        - `short`
+        - `int`
+        - `long`
 
 ```
 byte b = 123;
@@ -22,8 +22,8 @@ int b = 36374;
 long b = 2737383;
 ```
   2. Floating Point Number
-        + `float`
-        + `double`
+        - `float`
+        - `double`
 
 ```
 float f = 4563.89F;
