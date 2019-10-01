@@ -55,6 +55,11 @@ b. Non - Numeric
 
 _Almost, all the objects in java can be considered under Non - Primitive data types_
 
+_Please find the reference code for data types at -_
+
+Reference Code: https://github.com/sejava-explorer/core-java-fundamentals/blob/master/src/datatypesvariables/Datatypes.java
+
+
 ### VARIABLES ###
 
 _`VARIABLE` (In layman's term)- is a container or placeholder that is used for storing data or value which is used by the functions or methods_
@@ -87,6 +92,6 @@ In Java, there are various operations we can perform on Variables
   int i = 500;
   ```
 
-_Please find the reference code for data types and variables at -_
+_Please find the reference code for variables at -_
 
 Reference Code: https://github.com/sejava-explorer/core-java-fundamentals/blob/master/src/datatypesvariables/Datatypes.java
