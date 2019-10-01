@@ -2,12 +2,13 @@
 
 ## DATA TYPES ##
 
-Data type in any programming language represents the type of data/value a particular variable can hold in it.
+_Data type in any programming language represents the type of data/value a particular variable can hold in it._
 In Java, the data types are broadly classified as -
 -  Primitive
 -  Non-Primitive
 
-#### A. Primitive - Primitive datatype is further classified as -
+#### A. Primitive
+_Primitive datatype is further classified as_
 a. Numeric
   1. Integer
         - `byte`
@@ -46,10 +47,10 @@ b. Non - Numeric
 2. `String`
 3. `System` and so on..
 
-Almost, all the objects in java can be considered under Non - Primitive data types
+_Almost, all the objects in java can be considered under Non - Primitive data types_
 
 ## VARIABLES ##
 
-`VARIABLE` (In layman's term)- is a container or placeholder that is used for storing data or value which is used by the functions or methods
+_`VARIABLE` (In layman's term)- is a container or placeholder that is used for storing data or value which is used by the functions or methods_
 
 In technical term, `variable` is nothing but a memory location within computer internal memory which is used for storing data or value which is used by the functions or methods
