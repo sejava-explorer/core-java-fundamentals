@@ -5,7 +5,7 @@
 >
 > Shortcuts (emoticons): :-) :-( 8-) ;) -->
 
-### Hello Guys, lets start with some of the core concepts data types and variable :cool: ###
+### Hello Guys, lets start with some of the core concepts data types and variable 8) ###
 
 ### DATA TYPES ###
 
@@ -62,5 +62,30 @@ _`VARIABLE` (In layman's term)- is a container or placeholder that is used for s
 
 In technical term, `variable` is nothing but a memory location within computer internal memory which is used for storing data or value which is used by the functions or methods
 
+In Java, there are various operations we can perform on Variables
+  + Variable Declaration
+  ::: warning
+  *Variable Declaration =  Variable Datatype + Variable Name + `;`*
+  :::
+  ```java
+  int i ;
+  ```
+  + Variable Initialization
+  ::: warning
+  *Variable Initialization =  Variable Name + `=` + Value + `;`*
+  :::
+  ```java
+  i = 500;
+  ```
+  + Variable Definition
+  ::: warning
+  *Variable Declaration =  Variable Declaration + Variable Initialization + `;`*
+  :::
+  ```java
+  int i = 500;
+  ```
+
+
 Please find the reference code for data types and variables at -
-Reference Code  https://github.com/sejava-explorer/core-java-fundamentals/blob/master/src/datatypesvariables/Datatypes.java
+
+Reference Code: https://github.com/sejava-explorer/core-java-fundamentals/blob/master/src/datatypesvariables/Datatypes.java
