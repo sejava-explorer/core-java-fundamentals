@@ -36,13 +36,13 @@ boolean bool = true;
 
 // This function will help to get the max and min value a particular datatype can store
 public static void checkByteMinMaxValue(){
-        int i = Byte.MAX_VALUE;
+        byte i = Byte.MAX_VALUE;
         System.out.println(i);
         System.out.println(Byte.MIN_VALUE);
 }
 
 public static void checkShortMinMaxValue(){
-        int i = Short.MAX_VALUE;
+        short i = Short.MAX_VALUE;
         System.out.println(i);
         System.out.println(Short.MIN_VALUE);
 }
