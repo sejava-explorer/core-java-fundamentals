@@ -8,39 +8,43 @@ In Java, the data types are broadly classified as -
 > > B. Non-Primitive
 
 #### A. Primitive - Primitive datatype is further classified as -
-> > a. Numeric
-> > > 1. Integer
-> > > > + byte
+a. Numeric
+  1. Integer
+        + byte
+        + short
+        + int
+        + long
+
 ```
 byte b = 123;
-```
-> > > > + short
-```
 short b = 478;
-```
-> > > > + int
-```
 int b = 36374;
-```
-> > > > + long
-```
 long b = 2737383;
 ```
-> > > 2. Floating Point Number
-> > b. Non-Numeric
-> > > > + float
+  2. Floating Point Number
+        + float
+        + double
+
 ```
 float f = 4563.89F;
-```
-> > > > + double
-```
 double d = 234.78;
 ```
+b. Non - Numeric
+  1. char
+  ```
+  char c = 'A';
+  char x = '&';
+  ```
+  2. boolean
+  ```
+  boolean bool = true;
+  boolean b = false;
+  ```
 
 #### B. Non-Primitive
-> > a. Arrays
-> > b. String
-> > c. System and so on..
+a. Arrays
+b. String
+c. System and so on..
 Almost, all the objects in java can be considered under Non - Primitive data types
 
 ## VARIABLES ##
