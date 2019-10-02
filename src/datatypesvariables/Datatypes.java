@@ -33,6 +33,8 @@ double d = 230.78;  // -2^63 to -2^63 -1  with decimal precision
 // Non-Numeric Datatypes
 char c = 'A';   //Char should always be in single quotes
 boolean bool = true;
+static char maxChar = '\uffff';
+static char alphaC = '\u0108';
 
 // This function will help to get the max and min value a particular datatype can store
 public static void checkByteMinMaxValue(){
@@ -84,6 +86,9 @@ public static void main(String args[]) {
 
         System.out.println("char represents a single alpha & special character except numeric from keyboard");
         System.out.println("boolean only holds two values true & false both must be in lower case");
+
+        System.out.println(maxChar);
+        System.out.println(alphaC);
 
         checkByteMinMaxValue();
         checkShortMinMaxValue();
