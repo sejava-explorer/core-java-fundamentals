@@ -11,9 +11,12 @@ public class TestOne {
 
 		TempConverterScanner obj = new TempConverterScanner();
 		obj.farToCel();
+
 		float f = 45467.89F;
+		System.out.println(f);
 
 		long l = 45464748L;
+		System.out.println(l);
 
 	}
 
