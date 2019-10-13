@@ -28,14 +28,6 @@ class VariableTypes {
 		System.out.println(x);
 	}
 
-	public static void main(String args[]) {
-		VariableTypes vt = new VariableTypes();
-		vt.localVariable();
-		vt.accessLocalVariable();
-	}
-	
-	
-
 }
 
 
